@@ -1,15 +1,25 @@
-# Parte 1 - Escopo do Projeto
+<h1 align="center">
+Parte 1 - Escopo do Projeto <p align='center'>
+</h1>
 
-Squad nº:
+### Squad nº: 38
+```
 Nome do líder:
+
 Nome do Vice-líder:
-
-Nome do integrante:
-Nome do integrante:
-Nome do integrante:
-Nome do integrante:
+--------------------
 Nome do integrante:
 
+Nome do integrante:
+
+Nome do integrante:
+
+Nome do integrante:
+
+Nome do integrante:
+```
+
+##
 ### 1. Qual foi o desafio escolhido?
 
 - [ ]  DESAFIO 1 - EMPREGABILIDADE DE PESSOAS DE BAIXA RENDA
